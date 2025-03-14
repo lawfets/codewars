@@ -1,6 +1,6 @@
 # codewars
-all the .py files are exercises I programmed for codewars website.
-all the .php files are exercises I programmed for codewars website.
+All the .py files are exercises I programmed for codewars website.\n
+All the .php files are exercises I programmed for codewars website.\n
 In many files you can see a lot of the program is put as comments
 The comments are in fact other resolutions to the same problem.
 
